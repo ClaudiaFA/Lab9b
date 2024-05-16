@@ -61,3 +61,5 @@ max_iterations = 10
 # Create and run the world
 world = World(world_size, num_agents)
 world.run(max_iterations)
+
+#https://github.com/ClaudiaFA/Lab9b/blob/main/Lab9b.py
